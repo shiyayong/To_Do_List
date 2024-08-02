@@ -2,7 +2,7 @@
 
 # Paper 2024年08月01日
 
-Quantifying Task Priority for Multi-Task Optimization \\
+Quantifying Task Priority for Multi-Task Optimization 
 
 Cloud-Device Collaborative Learning for Multimodal Large Language Models
 
@@ -118,8 +118,7 @@ Teacher for Distillation
 
 # 架构搜索论文
 
-Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-
-tuning Approach
+Boosting Order-Preserving and Transferability for Neural Architecture Search: a Joint Architecture Refined Search and Fine-tuning Approach
 
 Building Optimal Neural Architectures using Interpretable Knowledge
 
