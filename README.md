@@ -1,7 +1,7 @@
 # To_Do_List
 
 # Paper 2024年08月01日
-Quantifying Task Priority for Multi-Task Optimization
+Quantifying Task Priority for Multi-Task Optimization \\
 Cloud-Device Collaborative Learning for Multimodal Large Language Models
 Asymmetric Masked Distillation for Pre-Training Small Foundation Models
 Bootstrapping SparseFormers from Vision Foundation Models
