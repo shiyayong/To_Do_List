@@ -1,5 +1,32 @@
 # To_Do_List
 
+# paper 多专家
+
+Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation
+
+具有不确定性感知功能的高效Deweahter混合专家线性调制
+
+Demystifying Softmax Gating Function in Gaussian Mixture of Experts
+
+揭秘专家高斯混合中的Softmax门控函数
+
+MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts
+
+模式：专家之间相互蒸馏的混合专家模型
+
+Multi-Task Dense Prediction via Mixture of Low-Rank Experts
+
+基于低阶专家混合的多任务密集预测
+
+MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation ☆
+
+MoME：高效多任务推荐的Mixture-of-Masked-Experts☆
+
+Sewer-MoE: A tuned Mixture of Experts Model for Sewer Defect Classification
+
+Sewer-MoE：用于下水道缺陷分类的专家混合模型
+
+
 # Paper 2024年08月01日
 
 Quantifying Task Priority for Multi-Task Optimization 
