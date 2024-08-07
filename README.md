@@ -1,6 +1,6 @@
 # To_Do_List
 
-# paper 多专家
+# paper 多专家 2024年08月07日
 
 Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation
 
@@ -22,9 +22,7 @@ MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation ☆
 
 MoME：高效多任务推荐的Mixture-of-Masked-Experts☆
 
-Sewer-MoE: A tuned Mixture of Experts Model for Sewer Defect Classification
 
-Sewer-MoE：用于下水道缺陷分类的专家混合模型
 
 
 # Paper 2024年08月01日
