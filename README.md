@@ -2,6 +2,28 @@
 
 # paper 多专家 2024年08月07日
 
+One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation
+
+Class Incremental Learning with Multi-Teacher Distillation
+
+Class Attention Transfer Based Knowledge Distillation
+
+Knowledge amalgamation for object detection with transformers
+
+Curriculum Temperature for Knowledge Distillation
+
+From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach with Normalized Loss and Customized Soft Labels
+
+Efficient Multitask Dense Predictor via Binarization
+
+MIND: Multi-Task Incremental Network Distillation
+
+Class Incremental Learning with Multi-Teacher Distillation
+
+Knowledge Distillation and Training Balance for Heterogeneous Decentralized Multi-Momodal Learning over Wireless Networks
+
+A Teacher-Free Graph Knowledge Distillation Framework With Dual Self-Distillation
+
 Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation
 
 具有不确定性感知功能的高效Deweahter混合专家线性调制
