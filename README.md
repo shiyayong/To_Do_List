@@ -8,7 +8,7 @@ Class Incremental Learning with Multi-Teacher Distillation
 
 Class Attention Transfer Based Knowledge Distillation
 
-Knowledge amalgamation for object detection with transformers
+Knowledge amalgamation for object detection with transformers  调试中
 
 Curriculum Temperature for Knowledge Distillation
 
@@ -16,7 +16,7 @@ From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach w
 
 Efficient Multitask Dense Predictor via Binarization
 
-MIND: Multi-Task Incremental Network Distillation
+MIND: Multi-Task Incremental Network Distillation 调试中
 
 Class Incremental Learning with Multi-Teacher Distillation
 
