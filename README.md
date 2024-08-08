@@ -4,7 +4,7 @@
 
 One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation
 
-Class Incremental Learning with Multi-Teacher Distillation
+
 
 Class Attention Transfer Based Knowledge Distillation
 
@@ -18,7 +18,7 @@ Efficient Multitask Dense Predictor via Binarization
 
 MIND: Multi-Task Incremental Network Distillation 调试中
 
-Class Incremental Learning with Multi-Teacher Distillation
+Class Incremental Learning with Multi-Teacher Distillation 无代码
 
 Knowledge Distillation and Training Balance for Heterogeneous Decentralized Multi-Momodal Learning over Wireless Networks
 
