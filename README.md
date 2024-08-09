@@ -20,29 +20,28 @@ MIND: Multi-Task Incremental Network Distillation 调试中
 
 Class Incremental Learning with Multi-Teacher Distillation 无代码
 
-Knowledge Distillation and Training Balance for Heterogeneous Decentralized Multi-Momodal Learning over Wireless Networks
+Knowledge Distillation and Training Balance for Heterogeneous Decentralized Multi-Momodal Learning over Wireless Networks 适合参考不适合代码复现 比较麻烦
 
-A Teacher-Free Graph Knowledge Distillation Framework With Dual Self-Distillation
+A Teacher-Free Graph Knowledge Distillation Framework With Dual Self-Distillation 没调通
 
-Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation
+Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation 没代码
 
 具有不确定性感知功能的高效Deweahter混合专家线性调制
 
-Demystifying Softmax Gating Function in Gaussian Mixture of Experts
+Demystifying Softmax Gating Function in Gaussian Mixture of Experts 没有代码
 
-揭秘专家高斯混合中的Softmax门控函数
 
-MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts
+MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts 没调通
 
-模式：专家之间相互蒸馏的混合专家模型
 
-Multi-Task Dense Prediction via Mixture of Low-Rank Experts
 
-基于低阶专家混合的多任务密集预测
+Multi-Task Dense Prediction via Mixture of Low-Rank Experts 数据集70G可能需要的运行时间比较久 所以没尝试
+
+
 
 MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation ☆
 
-MoME：高效多任务推荐的Mixture-of-Masked-Experts☆
+
 
 
 
