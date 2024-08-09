@@ -8,7 +8,7 @@ One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Dis
 
 Class Attention Transfer Based Knowledge Distillation
 
-Knowledge amalgamation for object detection with transformers  调试中
+Knowledge amalgamation for object detection with transformers  已有调试结果，初步可行
 
 Curriculum Temperature for Knowledge Distillation
 
@@ -16,7 +16,7 @@ From Knowledge Distillation to Self-Knowledge Distillation: A Unified Approach w
 
 Efficient Multitask Dense Predictor via Binarization
 
-MIND: Multi-Task Incremental Network Distillation 调试中
+MIND: Multi-Task Incremental Network Distillation 调试失败
 
 Class Incremental Learning with Multi-Teacher Distillation 无代码
 
