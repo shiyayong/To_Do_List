@@ -5,6 +5,9 @@
 
 #   paper 剪枝、蒸馏 2024年08月10日
 
+DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning # 作者已给代码 https://github.com/LixiangHan/DTMM
+
+MTL-Split: Multi-Task Learning for Edge Devicesusing Split Computing # 有代码已经调通
 
 Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN models****
 
