@@ -15,6 +15,9 @@ Update Compression for Deep Neural Networks on the Edge # 端边协同推理
 
 TIES-Merging: Resolving Interference When Merging Models 模型合并蒸馏
 
+AdapMTL: Adaptive Pruning Framework for Multitask Learning Model # 尚未有代码 关联性比较高
+
+
 # paper 多专家 2024年08月07日
 
 One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation
