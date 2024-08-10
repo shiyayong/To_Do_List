@@ -1,5 +1,17 @@
 # To_Do_List
 
+
+
+
+#   paper 剪枝、蒸馏 2024年08月10日
+
+
+Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN models****
+
+Update Compression for Deep Neural Networks on the Edge # 端边协同推理
+
+TIES-Merging: Resolving Interference When Merging Models 模型合并蒸馏
+
 # paper 多专家 2024年08月07日
 
 One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation
