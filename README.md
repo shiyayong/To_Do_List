@@ -3,7 +3,18 @@
 
 
 
-#   paper 剪枝、蒸馏 2024年08月10日
+#   paper 剪枝、蒸馏 2024年08月10日  # 关键词：Task-specific distillation edge
+
+
+AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts ☆
+
+Quantifying Task Priority for Multi-Task Optimization
+
+TaskFusion: An Efficient Transfer Learning Architecture with Dual Delta Sparsity for Multi-Task Natural Language Processing
+
+ТА2P: TASK-AWARE ADAPTIVE PRUNING METHOD FOR IMAGE CLASSIFICATION ON EDGE DEVICES
+
+MTL-Split: Multi-Task Learning for Edge Devices using Split Computing
 
 DTMM: Deploying TinyML Models on Extremely Weak IoT Devices with Pruning # 作者已给代码 https://github.com/LixiangHan/DTMM
 
