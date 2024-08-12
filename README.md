@@ -5,6 +5,30 @@
 
 #   paper 剪枝、蒸馏 2024年08月10日  # 关键词：Task-specific distillation edge
 
+Efficient Stitchable Task Adaptation
+
+很有意思，但是不是三个研究点里边的内容。PASS: Patch Automatic Skip Scheme for Efficient
+
+On-Device Video Perception
+
+Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sensing-Communication-Computation
+
+是研究点1 数据压缩的关联文章   Task-aware Distributed Source Coding under Dynamic Bandwidth    
+DiSparse: Disentangled Sparsification for Multitask Model Compression
+
+eTag: Class-Incremental Learning via Hierarchical Embedding Distillation and Task-Oriented 确认有代码 还没调过 打算调  ☆
+
+Generic-to-Specific Distillation of Masked Autoencoders ☆ 确认有代码 还没调过  打算调  ☆
+
+Generic-to-Specific Distillation of Masked Autoencoders
+
+DOT: A Distillation-Oriented Trainer
+
+Multi-Task Learning with Knowledge Distillation for Dense Prediction  没有代码
+
+Less is More: Task-aware Layer-wise Distillation for Language Model Compression
+
+TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge
 
 AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts ☆
 
