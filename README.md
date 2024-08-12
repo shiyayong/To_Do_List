@@ -20,13 +20,13 @@ eTag: Class-Incremental Learning via Hierarchical Embedding Distillation and Tas
 
 Generic-to-Specific Distillation of Masked Autoencoders ☆ 确认有代码 还没调过  打算调  ☆
 
-Generic-to-Specific Distillation of Masked Autoencoders
+DiSparse: Disentangled Sparsification for Multitask Model Compression 有代码可以调，缺点在于优点老
 
 DOT: A Distillation-Oriented Trainer
 
 Multi-Task Learning with Knowledge Distillation for Dense Prediction  没有代码
 
-Less is More: Task-aware Layer-wise Distillation for Language Model Compression
+Less is More: Task-aware Layer-wise Distillation for Language Model Compression 正在调
 
 TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge
 
