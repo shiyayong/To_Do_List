@@ -1,10 +1,10 @@
 # To_Do_List
 
-2024年08月14日 多任务拆分计算
+# 2024年08月14日 多任务拆分计算
 
-Performance-aware Approximation of Global Channel Pruning for Multitask CNNs
+Performance-aware Approximation of Global Channel Pruning for Multitask CNNs 多任务剪枝
 
-
+STEM: Unleashing the Power of Embeddings for Multi-task Recommendation 多任务计算
 
 #   paper 剪枝、蒸馏 2024年08月10日  # 关键词：Task-specific distillation edge
 
