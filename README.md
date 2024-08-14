@@ -6,6 +6,8 @@ Performance-aware Approximation of Global Channel Pruning for Multitask CNNs 多
 
 STEM: Unleashing the Power of Embeddings for Multi-task Recommendation 多任务计算
 
+Controllable Dynamic Multi-Task Architectures 可控动态多任务架构 还没调，可以调调试试
+
 #   paper 剪枝、蒸馏 2024年08月10日  # 关键词：Task-specific distillation edge
 
 Efficient Stitchable Task Adaptation
