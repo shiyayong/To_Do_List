@@ -1,5 +1,8 @@
 # To_Do_List
 
+2024年08月14日 多任务拆分计算
+
+Performance-aware Approximation of Global Channel Pruning for Multitask CNNs
 
 
 
@@ -16,9 +19,9 @@ Energy-Efficient Optimal Mode Selection for Edge AI Inference via Integrated Sen
 是研究点1 数据压缩的关联文章   Task-aware Distributed Source Coding under Dynamic Bandwidth    
 DiSparse: Disentangled Sparsification for Multitask Model Compression
 
-eTag: Class-Incremental Learning via Hierarchical Embedding Distillation and Task-Oriented 确认有代码 还没调过 打算调  ☆
+eTag: Class-Incremental Learning via Hierarchical Embedding Distillation and Task-Oriented 确认有代码 还没调过 打算调  ☆   2024年08月14日更新:success
 
-Generic-to-Specific Distillation of Masked Autoencoders ☆ 确认有代码 还没调过  打算调  ☆
+Generic-to-Specific Distillation of Masked Autoencoders ☆ 确认有代码 还没调过  打算调  ☆ 调需要时间较久
 
 DiSparse: Disentangled Sparsification for Multitask Model Compression 有代码可以调，缺点在于优点老
 
@@ -26,7 +29,7 @@ DOT: A Distillation-Oriented Trainer
 
 Multi-Task Learning with Knowledge Distillation for Dense Prediction  没有代码
 
-Less is More: Task-aware Layer-wise Distillation for Language Model Compression 正在调
+Less is More: Task-aware Layer-wise Distillation for Language Model Compression 正在调 2024年08月14日更新：fail 数据集是代码自动下载的，但是下载代码一直报错。
 
 TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge
 
