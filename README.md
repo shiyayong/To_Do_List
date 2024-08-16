@@ -33,7 +33,7 @@ Multi-Task Learning with Knowledge Distillation for Dense Prediction  没有代�
 
 Less is More: Task-aware Layer-wise Distillation for Language Model Compression 正在调 2024年08月14日更新：fail 数据集是代码自动下载的，但是下载代码一直报错。
 
-TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge
+TinyTrain: Resource-Aware Task-Adaptive Sparse Training of DNNs at the Data-Scarce Edge #20248月底公布代码
 
 AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts ☆
 
