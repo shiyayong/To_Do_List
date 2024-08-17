@@ -11,6 +11,7 @@ TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixt
 
 MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning 关联度比较高，正在着手尝试。
 
+Generic-to-Specific Distillation of Masked Autoencoders 从通用到特定任务的大小模型之间的蒸馏
 # 2024年08月14日 多任务拆分计算
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs 多任务剪枝
