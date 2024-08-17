@@ -1,5 +1,12 @@
 # To_Do_List
 
+
+# 2024年08月17日 任务优先级 + 自适应张量压缩 搜索关键词： task-specific optimization  , task-specific decoders,
+
+Quantifying Task Priority for Multi-Task Optimization  暂时没有代码
+
+AdaMTL: Adaptive Input-dependent Inference for Effcient Multi-Task Learning 有代码，试着调一下，在一个完整多任务骨架上，生成了一个策略网络：针对特定任务，决定网络的各个层有哪些是有利于该任务计算的，则激活，不利于该任务计算的，则使其沉默。另外，将一个图像分为不同的块，给每一个图像块做一个任务关联标记，明确计算任务和块的关系，这样让模型在执行相关任务的时候就只接收样本的部分特征，在很大程度上避免了复杂的冗余计算。
+
 # 2024年08月14日 多任务拆分计算
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs 多任务剪枝
