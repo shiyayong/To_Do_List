@@ -9,8 +9,7 @@ AdaMTL: Adaptive Input-dependent Inference for Effcient Multi-Task Learning 有�
 
 TaskExpert: Dynamically Assembling Multi-Task Representations with Memorial Mixture-of-Experts 挺好的，但是没有代码，已经给作者发邮件了。
 
-
-
+MTLoRA: A Low-Rank Adaptation Approach for Efficient Multi-Task Learning 关联度比较高，正在着手尝试。
 
 # 2024年08月14日 多任务拆分计算
 
