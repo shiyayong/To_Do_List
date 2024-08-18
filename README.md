@@ -16,9 +16,9 @@ Generic-to-Specific Distillation of Masked Autoencoders 从通用到特定任务
 
 Performance-aware Approximation of Global Channel Pruning for Multitask CNNs 多任务剪枝
 
-STEM: Unleashing the Power of Embeddings for Multi-task Recommendation 多任务计算
+STEM: Unleashing the Power of Embeddings for Multi-task Recommendation 多任务计算，内存不够，没调通。
 
-Controllable Dynamic Multi-Task Architectures 可控动态多任务架构 还没调，可以调调试试
+Controllable Dynamic Multi-Task Architectures 可控动态多任务架构 还没调，可以调调试试，没有代码。
 
 #   paper 剪枝、蒸馏 2024年08月10日  # 关键词：Task-specific distillation edge
 
@@ -37,7 +37,7 @@ eTag: Class-Incremental Learning via Hierarchical Embedding Distillation and Tas
 
 Generic-to-Specific Distillation of Masked Autoencoders ☆ 确认有代码 还没调过  打算调  ☆ 调需要时间较久
 
-DiSparse: Disentangled Sparsification for Multitask Model Compression 有代码可以调，缺点在于优点老
+DiSparse: Disentangled Sparsification for Multitask Model Compression 有代码可以调，缺点在于优点老，通了。！ ☆ 
 
 DOT: A Distillation-Oriented Trainer
 
