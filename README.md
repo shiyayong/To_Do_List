@@ -21,8 +21,11 @@ SAR 图像 关联网站 https://www.sartechnology.ca/imagerecognition/
 
 无人机: Drone or Unmanned Aerial Vehicle (UAV)
 
+携带摄像头的搜救犬 
 
+搜救机器人
 
+导航机器人
 
 
 # 2024年08月17日 任务优先级 + 自适应张量压缩 搜索关键词： task-specific optimization  , task-specific decoders,
