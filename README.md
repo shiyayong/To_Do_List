@@ -2,12 +2,24 @@
 
 # 2024年08月21日
 DAC论文搜索关键词
+
 协同感知 Collaborative Perception
+
 空天地一体化网络Space-Integrated-Ground
 
+SAR 图像 关联网站 https://www.sartechnology.ca/imagerecognition/
 
+高清搜救杆式摄像机: High-definition Search and Rescue Pole Camera
 
+头盔式热像仪、头盔摄像机: Helmet-mounted Thermal Imager, Helmet Camera
 
+受害者探测器（携带摄像头）: Victim Detector (with Camera), USAR Life Detectors/ Search Cameras 
+
+多传感器生物望远镜: Multi-sensor Biometric Binoculars
+
+直升飞机中远距离成像: Helicopter Mid-Range and Long-Range Imaging
+
+无人机: Drone or Unmanned Aerial Vehicle (UAV)
 
 
 
