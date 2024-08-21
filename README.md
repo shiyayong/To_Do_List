@@ -1,5 +1,17 @@
 # To_Do_List
 
+# 2024年08月21日
+DAC论文搜索关键词
+协同感知 Collaborative Perception
+空天地一体化网络Space-Integrated-Ground
+
+
+
+
+
+
+
+
 
 # 2024年08月17日 任务优先级 + 自适应张量压缩 搜索关键词： task-specific optimization  , task-specific decoders,
 
