@@ -1,5 +1,23 @@
 # To_Do_List
 
+
+
+# 2024年08月26日
+
+下面都是拆分计算-边缘智能的A会A刊的论文。
+
+1 Efficient Parallel Split Learning over Resource-constrained Wireless Edge Networks
+
+2 Edge-MSL: Split Learning on the Mobile Edge via Multi-Armed Bandits
+
+3 Split Learning Over Wireless Networks: Parallel Design and Resource Management
+
+4 An Efficient Light-weight Vision Transformer Based on Split-and-Merge Strategy and Channel Shuffle
+
+5 Edge-MSL: Split Learning on the Mobile Edge via Multi-Armed Bandits
+
+6 Splitwise: Efficient Generative LLM Inference Using Phase Splitting
+
 # 2024年08月21日
 DAC论文搜索关键词
 
