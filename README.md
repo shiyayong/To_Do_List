@@ -1,8 +1,11 @@
 # To_Do_List
 
-
+#
 
 # 2024年08月26日
+Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks  层剪枝的，最好是能够运行出来，这个模型剪枝90%而任务准确率降低了2%，那么我们能不能做到，简直90% 任务1的准确率下降2% 而任务2的准确率不下降呢？ 先调通再想办法
+
+
 
 下面都是拆分计算-边缘智能的A会A刊的论文。
 
